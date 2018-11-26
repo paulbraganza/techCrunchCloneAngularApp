@@ -32,7 +32,7 @@ ng serve -o
 ### Search Demo
 ![](search.png)
 
-## Authors
+## Author
 
 * **Paul Braganza** - *Initial work* - [TechCrunchAPI](https://github.com/paulbraganza12/techCrunchCloneAPI)
 
