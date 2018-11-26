@@ -1,30 +1,38 @@
-# T E C H C R U N C H  C L O N E
+# T E C H C R U N C H    C L O N E
 
-# Technology Stack
-•	Angular- frontend (Making API Request and UI/UX)
-•	Python - Backend (Web scraping and Restful Services API )
+> Scrapes https://www.techcrunch.com to give live news related to apps ,gadgets ,and startups.Performs search based on keywords specified
+
+![](main.png)
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+Node version- ^v8.12.0
+Python verison- 3.6
+Angular CLI
+
+```
+Give examples
+```
+
+### Installing
+
+Clone/Download the project and run "npm install"->ng serve -o
 
 
-## Development server
+### Demo
+![](main.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+![](search.png)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Authors
 
-## Build
+* **Paul Braganza** - *Initial work* - [PurpleBooth](https://github.com/paulbraganza12)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## License
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+This project is licensed
