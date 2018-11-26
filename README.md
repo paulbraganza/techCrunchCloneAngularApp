@@ -1,6 +1,9 @@
-# CloneTech
+# T E C H C R U N C H  C L O N E
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.2.
+# Technology Stack
+•	Angular- frontend (Making API Request and UI/UX)
+•	Python - Backend (Web scraping and Restful Services API )
+
 
 ## Development server
 
