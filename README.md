@@ -12,6 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 - Node version- ^v8.12.0
 - Python verison- 3.6
 - Angular CLI
+-Clone/Download [TechCrunchAPI](https://github.com/paulbraganza12/techCrunchCloneAPI)
 
 
 
@@ -33,7 +34,7 @@ ng serve -o
 
 ## Authors
 
-* **Paul Braganza** - *Initial work* - [TechCrunchAPI](https://github.com/paulbraganza12)
+* **Paul Braganza** - *Initial work* - [TechCrunchAPI](https://github.com/paulbraganza12/techCrunchCloneAPI)
 
 ## License
 
