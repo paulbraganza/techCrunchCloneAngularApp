@@ -8,14 +8,14 @@
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
+## Prerequisites
 - Node version- ^v8.12.0
 - Python verison- 3.6
 - Angular CLI
 
 
 
-### Installing
+## Installing
 
 Clone/Download the project and run "npm install"->ng serve -o
 
@@ -25,10 +25,10 @@ npm install
 ng serve -o
 ```
 
-### Demo
+## Demo
 ![](main.png)
 
-# Search Demo
+### Search Demo
 ![](search.png)
 
 ## Authors
